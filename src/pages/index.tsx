@@ -28,25 +28,27 @@ export default function Home(props: HomeProps) {
     >
       <div className={styles.container}>
         <Head>
-          <title>Home | move.it - o app que te deixa em movimento</title>
+          <title>
+            Home | Ketchup.it - o pomodoro que te deixa em movimento
+          </title>
           <meta
             name="title"
-            content="Home | move.it - o app que te deixa em movimento"
+            content="Home | Ketchup.it - o pomodoro que te deixa em movimento"
           />
           <meta
             name="description"
-            content="O movit foi construído em React, Next.js e Typescript durante a NLW#4 da Rocketseat e traz desafios laborais para manter o seu corpo e visão saudáveis no ambiente de trabalho/estudo."
+            content="O ketchupit foi construído em React, Next.js e Typescript durante a NLW#4 da Rocketseat e traz desafios laborais para manter o seu corpo e visão saudáveis no ambiente de trabalho/estudo."
           />
 
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://movit.vercel.app/" />
           <meta
             property="og:title"
-            content="Home | move.it - o app que te deixa em movimento"
+            content="Home | Ketchup.it - o pomodoro que te deixa em movimento"
           />
           <meta
             property="og:description"
-            content="O movit foi construído em React, Next.js e Typescript durante a NLW#4 da Rocketseat e traz desafios laborais para manter o seu corpo e visão saudáveis no ambiente de trabalho/estudo."
+            content="O ketchupit foi construído em React, Next.js e Typescript durante a NLW#4 da Rocketseat e traz desafios laborais para manter o seu corpo e visão saudáveis no ambiente de trabalho/estudo."
           />
           <meta property="og:image" content="preview.png" />
 
